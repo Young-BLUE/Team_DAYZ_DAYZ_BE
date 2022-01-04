@@ -22,6 +22,7 @@ DAYZ를 통해 원하는 원데이 클래스를 한눈에 조회하고 예약하
 
 ## 🛠 Tech Stack
 </br>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff&logoWidth=25"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-JPA-orange?style=flat-square&logoColor=ffffff"/>&nbsp;&nbsp;
@@ -40,20 +41,41 @@ DAYZ를 통해 원하는 원데이 클래스를 한눈에 조회하고 예약하
 </br>
 </br>
 
+## 📱 화면 구성
+</br>
+
+<div align="center">
+<img width="220" alt="최초 접속화면" src="https://user-images.githubusercontent.com/81351244/148020626-b09403bf-2810-46e9-996e-b7a6e8e61e05.png" title="최초 접속화면">
+<img width="220" alt="카카오 간편로그인으로 가입" src="https://user-images.githubusercontent.com/81351244/148020633-07149905-82b9-43cb-acc1-ac5a0894bce7.png" title="카카오 간편로그인으로 가입">
+<img width="220" alt="메인페이지" src="https://user-images.githubusercontent.com/81351244/148020642-b13584df-cd4e-4d05-9428-cfadf09213e2.png" title="메인페이지">
+<img width="220" alt="클래스 상세페이지" src="https://user-images.githubusercontent.com/81351244/148020651-0f52f71b-ad27-4e52-a961-c4e2d9589050.png" title="클래스 상세페이지">
+<img width="220" alt="클래스 예약페이지" src="https://user-images.githubusercontent.com/81351244/148020658-fa6b0ee4-10cd-475b-a2c1-290e2c5a78f0.png" title="클래스 예약페이지">
+<img width="220" alt="예약확인" src="https://user-images.githubusercontent.com/81351244/148020667-c70a7a45-f7de-4f08-95fc-5b8ee76e3475.png" title="예약확인">
+<img width="220" alt="공방페이지" src="https://user-images.githubusercontent.com/81351244/148020673-a002fdeb-11da-486b-b25c-7d0e5cc80788.png" title="공방페이지">
+<img width="220" alt="팔로우한 공방 소식 피드확인" src="https://user-images.githubusercontent.com/81351244/148020679-941fe532-79ad-4322-b125-dbf3427a09a2.png" title="팔로우한 공방 소식 피드확인">
+</div>
+
+</br>
+</br>
+
 ## 📃 프로젝트 구조
----
+</br>
+
 <img src="https://user-images.githubusercontent.com/78334008/147053211-0930b949-0f0f-4244-911d-3281977d476b.png">
+
 </br>
 </br>
 
 ## 🗄 ERD
----
+</br>
+
 <img src="https://user-images.githubusercontent.com/78334008/147358723-3561d557-4e68-4d4c-a870-19c368baf0c2.png">
 
 </br>
 </br>
 
 ## 👨🏻‍💻 Team Conventions
+</br>
 
 |                                                           Team Leader                                                           |                                                            Developer                                                            |                                                                 Scrum Master                                                                 |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
